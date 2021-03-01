@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Szkielet Hamcrest do obiektów dopasowujących
 Name:		python-pyhamcrest
 # keep 1.x here (2.x drops python 2 support)
 Version:	1.10.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pyhamcrest/
